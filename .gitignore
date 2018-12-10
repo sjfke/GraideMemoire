@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Eclipse configuration files #
+###############################
+.project
+.pydevproject
+.settings
+
+# Pipenv configuration files #
+##############################
+.venv
+Pipfile.lock
