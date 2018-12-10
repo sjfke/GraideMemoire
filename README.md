@@ -1,5 +1,5 @@
-# GradeMemoire
-Simple Flask app to assist with learning those pesky lists
+# GraideMemoire
+Simple Flask app to assist with learning those pesky tests, lists
 
 # Useful Links
 
